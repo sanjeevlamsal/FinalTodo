@@ -6,12 +6,12 @@
 
 
     <EditText
+        android:id="@+id/edittext"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/edittext"
-        android:paddingStart="8dp"
         android:hint="Enter New Task"
-        android:paddingEnd="7dp"/>
+        android:paddingStart="8dp"
+        android:paddingEnd="7dp" />
 
     <Button
         android:id="@+id/button_save"

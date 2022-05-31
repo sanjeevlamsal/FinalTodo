@@ -26,7 +26,6 @@ public class AddNewTask extends BottomSheetDialogFragment {
     //widgets
     private EditText mEditText;
     private Button mSaveButton;
-
     private DataBaseHelper myDb;
 
     public static AddNewTask newInstance(){

@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/New Folder/Component 2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/New Folder/Component 2/app/src/main/res/layout/activity_splash.xml" value="0.11302083333333333" />
+        <entry key="..\:/New Folder/Component 2/app/src/main/res/layout/add_newtask.xml" value="0.11302083333333333" />
+        <entry key="..\:/New Folder/Component 2/app/src/main/res/layout/task_layout.xml" value="0.11302083333333333" />
         <entry key="..\:/New Folder/to-do-list-using-sqlite/app/src/main/res/drawable/ic_baseline_done_all_24.xml" value="0.1325" />
         <entry key="..\:/New Folder/to-do-list-using-sqlite/app/src/main/res/layout/activity_main.xml" value="0.10733695652173914" />
         <entry key="..\:/New Folder/to-do-list-using-sqlite/app/src/main/res/layout/activity_splash.xml" value="0.10733695652173914" />
